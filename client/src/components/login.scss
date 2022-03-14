@@ -1,0 +1,14 @@
+.container{
+    height: 20px;
+    display: flex;
+    align-items: center;
+    width: 250px;
+    .top
+    {
+        color: red;
+    }
+    .bottom
+    {
+        color: green;
+    }
+}
